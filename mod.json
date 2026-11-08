@@ -1,0 +1,8 @@
+{
+  "geode": "1.0.0",
+  "id": "my.first.mod",
+  "name": "My First Mod",
+  "developer": "dabldoink",
+  "description": "Мой первый мод для Geode",
+  "version": "1.0.0"
+}
